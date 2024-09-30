@@ -187,7 +187,7 @@ def main():
     st.write(f"**Air Quality (PM2.5)**: {weather_data.get('air_quality')} µg/m³")
 
     # Display the 5-day forecast
-    display_5_day_forecast()
+   # display_5_day_forecast()
 
 if __name__ == "__main__":
     main()
